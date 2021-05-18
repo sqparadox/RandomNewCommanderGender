@@ -1,0 +1,10 @@
+{
+    "Name": "RandomNewCommanderGender",
+    "Enabled": true,
+    "Version": "1.0.0",
+    "Description": "Randomizes the gender (he/she/they) of the default Commander when starting a new Career",
+    "Author": "sqparadox",
+    "Website": "https://github.com/sqparadox/RandomNewCommanderGender",
+	
+    "DLL": "RandomNewCommanderGender.dll"
+}
